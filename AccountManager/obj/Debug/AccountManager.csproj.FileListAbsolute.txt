@@ -112,3 +112,6 @@ D:\Steam\AccountManager01.04.2016\AccountManager\obj\Debug\AccountManager.Proper
 D:\Steam\AccountManager01.04.2016\AccountManager\obj\Debug\AccountManager.csproj.GenerateResource.Cache
 D:\Steam\AccountManager01.04.2016\AccountManager\obj\Debug\AccountManager.exe
 D:\Steam\AccountManager01.04.2016\AccountManager\obj\Debug\AccountManager.pdb
+C:\Users\Nico\Desktop\Account-Manager-v4\AccountManager\bin\Debug\AccountManager.exe.config
+C:\Users\Nico\Desktop\Account-Manager-v4\AccountManager\obj\Debug\AccountManager.exe
+C:\Users\Nico\Desktop\Account-Manager-v4\AccountManager\obj\Debug\AccountManager.pdb

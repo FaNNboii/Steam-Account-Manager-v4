@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Steam\AccountManager01.04.2016\AccountManager\obj\Debug\
+C:\Users\Nico\Desktop\Account-Manager-v4\AccountManager\obj\Debug\
 AccountManager
 none
 false
 DEBUG;TRACE
-D:\Steam\AccountManager01.04.2016\AccountManager\App.xaml
+C:\Users\Nico\Desktop\Account-Manager-v4\AccountManager\App.xaml
 41163913669
 
 22610421345
-181992679424
+18-886834146
 Views\MainWindow.xaml;Views\Styles.xaml;Views\TimeBar.xaml;Views\TwoFactorWindow.xaml;
 
-True
+False
 
